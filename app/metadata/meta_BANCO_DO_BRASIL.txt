@@ -1,4 +1,4 @@
 model_name=StatsForecast AutoARIMA
-data_treino=2025-12-16 00:00:00
-data_teste=2026-01-12
+data_treino=2026-01-06 00:00:00
+data_teste=2026-01-13
 papel=BANCO_DO_BRASIL
